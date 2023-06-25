@@ -67,7 +67,7 @@ async def init():
     except:
         pass
     await Alone.decorators()
-    LOGGER("AloneX").info("╔═════ஜ۩۞۩ஜ════╗\n  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 𝗔𝗟𝗢𝗡𝗘♨️\n╚═════ஜ۩۞۩ஜ════╝")
+    LOGGER("AloneX").info("╔═════ஜ۩۞۩ஜ════╗\n  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 𝗩𝗜𝗥𝗔𝗡𝗬𝗔♨️\n╚═════ஜ۩۞۩ஜ════╝")
     await idle()
 
 
