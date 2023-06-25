@@ -23,7 +23,7 @@
   <img src="https://te.legra.ph/file/7161f22699a711a5825b2.jpg">
 </p>
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝄟ॐ❥𝐕𝐢𝐫𝐚𝐧𝐲𝐚🍷𝗠𝗨𝗦𝗜𝗖🌷𝗕𝗢𝗧❥𝄟⃟🥀](https://t.me/QueenXRobot)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝄟ॐ❥𝗩𝗜𝗥𝗔𝗡𝗬𝗔🍷𝗠𝗨𝗦𝗜𝗖🌷𝗕𝗢𝗧❥𝄟⃟🥀](https://t.me/QueenXRobot)**
 
 
 
