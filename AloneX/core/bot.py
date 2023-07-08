@@ -36,7 +36,7 @@ class AloneXBot(Client):
         LOGGER(__name__).info(f"MusicBot Started as {self.name}")
         try:
             await self.send_message(
-                config.LOG_GROUP_ID, f"**» {config.MUSIC_BOT_NAME} 𝐁𝐨𝐭 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 𝐛𝐚𝐛𝐲🤩 **\n\n✨ 𝐈𝐃 : `{self.id}`\n🥰𝐍𝐀𝐌𝐄 : {self.name}\n💫 𝐔𝐒𝐄𝐑𝐍𝐀𝐌𝐄 : @{self.username}"
+                config.LOG_GROUP_ID, f"**» {config.MUSIC_BOT_NAME} Bot started **\n\n✨ 𝐈𝐃 : `{self.id}`\nName : {self.name}\n💫 Username : @{self.username}"
             )
         except:
             LOGGER(__name__).error(
